@@ -18,3 +18,26 @@ _IN PROGRESS_
 
 ### Lambda
 _IN PROGRESS_
+
+### Dynamo DB
+_IN PROGRESS_
+
+### S3 with VPC Endpoint
+_IN PROGRESS_
+
+### Private Link
+_IN PROGRESS_
+
+## Features
+
+### Public and Private Subnets
+_IN PROGRESS_
+
+### Multi AZ
+_IN PROGRESS_
+
+### Region Agnostic
+_IN PROGRESS_
+
+## Security
+_IN PROGRESS_
