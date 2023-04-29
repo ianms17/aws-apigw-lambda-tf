@@ -11,7 +11,8 @@ These modules can be imported into your terraform! Within each module you will f
 ## Components
 
 ### VPC
-_IN PROGRESS_
+![Choreboard(1)](https://user-images.githubusercontent.com/35043635/235328296-ca3969c1-46c2-4e0a-9f4b-687c183cfe52.jpg)
+
 
 ### API Gateway
 _IN PROGRESS_
